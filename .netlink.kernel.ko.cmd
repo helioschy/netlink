@@ -1,0 +1,1 @@
+cmd_/home/smallcheng/文档/netlink/netlink.kernel.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/smallcheng/文档/netlink/netlink.kernel.ko /home/smallcheng/文档/netlink/netlink.kernel.o /home/smallcheng/文档/netlink/netlink.kernel.mod.o;  true
